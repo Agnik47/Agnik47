@@ -1,8 +1,8 @@
-[![MasterHead](https://im7.ezgif.com/tmp/ezgif-7-d551668d4d.webp)
+[![MasterHead](https://im7.ezgif.com/tmp/ezgif-7-c651ffa323.gif)
 <h1 align="center">Hi 👋, I'm Agnik Paul</h1>
 <h3 align="center">Just Finding My Path</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="coding" width="400" src="https://im7.ezgif.com/tmp/ezgif-7-a4a17f752f.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnik47&label=Profile%20views&color=0e75b6&style=flat" alt="agnik47" /> </p>
 

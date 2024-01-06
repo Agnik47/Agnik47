@@ -1,4 +1,4 @@
-[![MasterHead](https://im7.ezgif.com/tmp/ezgif-7-c78468b78b.webp)
+[![MasterHead](https://im7.ezgif.com/tmp/ezgif-7-d551668d4d.webp)
 <h1 align="center">Hi 👋, I'm Agnik Paul</h1>
 <h3 align="center">Just Finding My Path</h3>
 

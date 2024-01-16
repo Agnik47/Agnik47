@@ -1,4 +1,4 @@
-![MasterHead](https://im7.ezgif.com/tmp/ezgif-7-c651ffa323.gif)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Agnik Paul</h1>
 <h3 align="center">Just Finding My Path</h3>
 

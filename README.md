@@ -1,4 +1,4 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Agnik Paul</h1>
 <h3 align="center">Just Finding My Path</h3>
 

@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnik47&label=Profile%20views&color=0e75b6&style=flat" alt="agnik47" /> </p>
 
-- 🔭 I’m currently Working On **google solution challenge**
+- 🔭 I’m currently Working On **Google solution challenge**
 
 - 🌱 I’m currently learning **JavaScript, CSS, React, DSA in JS and C**
 

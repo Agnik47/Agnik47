@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnik47&label=Profile%20views&color=0e75b6&style=flat" alt="agnik47" /> </p>
 
-- 🔭 I’m currently Working On **Google solution challenge**
+- 🔭 I’m currently Working On **DMSM LEANTIG PLATFORM**
 
-- 🌱 I’m currently learning **JavaScript, CSS, React, DSA in JS and C**
+- 🌱 I’m currently learning **THREE Js, CSS, React, DSA in  JAVA**
 
-- 👯 I’m looking to collaborate on **Gsoc**
+- 👯 I’m looking to collaborate on **BACKEMD DEV**
 
 - 📫 How to reach me **agnikpaul0020@gmail.com**
 

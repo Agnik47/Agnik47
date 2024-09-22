@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently Working On **DMSM LEARNING PLATFORM**
 
-- 🌱 I’m currently learning **THREE JS, React, DSA in  JAVA**
+- 🌱 I’m currently learning **THREE JS, React, DSA in  JAVA, AI/ML**
 
-- 👯 I’m looking to collaborate on **BACKEMD DEV**
+- 👯 I’m looking to collaborate on **BACKEND DEV**
 
 - 📫 How to reach me **agnikpaul0020@gmail.com**
 

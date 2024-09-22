@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently Working On **DMSM LEARNING PLATFORM**
 
-- 🌱 I’m currently learning **THREE Js, CSS, React, DSA in  JAVA**
+- 🌱 I’m currently learning **THREE JS, React, DSA in  JAVA**
 
 - 👯 I’m looking to collaborate on **BACKEMD DEV**
 

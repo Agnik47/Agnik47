@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnik47&label=Profile%20views&color=0e75b6&style=flat" alt="agnik47" /> </p>
 
-- 🔭 I’m currently Working On **DMSM LEARNING PLATFORM**
+- 🔭 I’m currently Working On **REACT WEBSITES AND THREE JS**
 
 - 🌱 I’m currently learning **THREE JS, React, DSA in  JAVA, AI/ML**
 
